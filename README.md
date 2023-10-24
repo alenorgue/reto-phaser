@@ -25,7 +25,7 @@ derecha de la pantalla.
 6. (difícil). Consulta la documentación de Phaser3; y 
 averigua como hacer que el personaje se pueda mover
 también a izquierda y derecha con las letras A y D; 
-respectivamente.
+respectivamente. También debería poder saltar con la letra W.
 
 [Vídeo funcionalidades deseadas](https://oscarm.tinytake.com/msc/NjQwMTA0MF8xODgwNjE5Nw)
 
