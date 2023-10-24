@@ -14,14 +14,15 @@ una línea de código por requisito.
 
 1. El tamaño de la puntuación quiero que sea de un
 tamaño mucho más grande.
-2. El color del texto SCORE debe ser diferente a negro,
-el que quieras.
+2. El color del texto SCORE debe ser diferente a negro, el que sea, pero que quede bien con el azul de fondo. BONUS: Concretamente, al cliente le haría gracia que pusieramos el amarillo Bumblebee
 3. Las estrellas deben otorgar solo UN punto cada vez
 que las recojamos.
 4. Queremos que el personaje aparezca ahora en la parte
 derecha de la pantalla.
-
-5. (difícil). Consulta la documentación de Phaser3; y 
+5. Contesta:
+  1. ¿Cuál es la función que se ejecuta cuando colisiona el persona y una estrella?
+  2. ¿Cuál es la función que ejecuta el programa para _desactivar_ o hacer desaparecer una estrella?
+6. (difícil). Consulta la documentación de Phaser3; y 
 averigua como hacer que el personaje se pueda mover
 también a izquierda y derecha con las letras A y D; 
 respectivamente.
