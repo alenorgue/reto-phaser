@@ -20,8 +20,8 @@ que las recojamos.
 4. Queremos que el personaje aparezca ahora en la parte
 derecha de la pantalla.
 5. Contesta:
-  1. ¿Cuál es la función que se ejecuta cuando colisiona el persona y una estrella?
-  2. ¿Cuál es la función que ejecuta el programa para _desactivar_ o hacer desaparecer una estrella?
+   1. ¿Cuál es la función que se ejecuta cuando colisiona el persona y una estrella?
+   2. ¿Cuál es la función que ejecuta el programa para _desactivar_ o hacer desaparecer una estrella?
 6. (difícil). Consulta la documentación de Phaser3; y 
 averigua como hacer que el personaje se pueda mover
 también a izquierda y derecha con las letras A y D; 
