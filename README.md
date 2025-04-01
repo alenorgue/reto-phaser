@@ -27,7 +27,7 @@ averigua como hacer que el personaje se pueda mover
 también a izquierda y derecha con las letras A y D; 
 respectivamente. También debería poder saltar con la letra W.
 
-[Vídeo funcionalidades deseadas](https://oscarm.tinytake.com/msc/NjQwMTA0MF8xODgwNjE5Nw)
+[Vídeo funcionalidades deseadas](https://ttprivatenew.s3.amazonaws.com/pulse/oscarm/attachments/18806197/TinyTake13-01-2022-11-15-50.mp4)
 
 ## Motivación
 
